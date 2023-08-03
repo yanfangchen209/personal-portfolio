@@ -9,7 +9,7 @@ import ProjectDetail from "./pages/ProjectDetail";
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <BrowserRouter>
         <Menu />
         <Routes>

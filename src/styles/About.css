@@ -1,0 +1,39 @@
+.container {
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+#profileImg {
+    width: 60%
+}
+
+.container h3{
+    color: rgb(37, 95, 113);
+    font-size: 22px;
+    width: 60%;
+    margin-bottom: 5px;
+}
+
+.container p {
+    margin-top:5px;
+}
+
+.selfintroduction p{
+    width: 90%;
+    text-align: left;
+    margin-left: 20px;
+}
+
+ul.skillsets {
+    text-align: left;
+    width: 90%;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+ul.skillsets li{
+    margin-top:4px;
+    margin-bottom: 4px;
+}
+
+
