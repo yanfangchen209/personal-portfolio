@@ -9,7 +9,12 @@ function Home(){
         <div className='home'>
                 <h2 className='greeting'>Hello, I am Yanfang Chen.</h2>
                 <div className='introduction'>
-                    <p>A new computer science graudate with passion for learning, currently looking for a job.</p>
+                    <p>I hold a master's degree in computer science and am actively pursuing positions 
+                        as a software engineer.
+                    </p> 
+                    <p>My areas of particular interest encompass front-end development and full-stack 
+                        development.
+                    </p>
                     <a href='https://www.linkedin.com/in/yanfang--chen/' rel='noreferrer' target='_blank'><LinkedIn/></a>
                     <a href='https://github.com/yanfangchen209' rel='noreferrer' target='_blank'><GitHub/></a>
                 </div>
