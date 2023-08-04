@@ -19,8 +19,6 @@ function ProjectDetail(){
                 <p>
                     <b>Skills: </b>{project.skill}
                 </p>
-                <div><span>App url: {project.websiteUrl ? project.websiteUrl : "Deploy in progess"}</span>
-                </div>
             </div>
         )
     }

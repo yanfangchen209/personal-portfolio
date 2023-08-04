@@ -37,7 +37,7 @@ function About(){
                     <h3>Technical Expertise</h3>
                     <ul className='skillsets'>
                         <li>
-                            Experienced in back-end development utilizing Spring Boot, Java, and SQL databases, including MySQL, MS Server SQL, and MongoDB.
+                            Experienced in back-end development utilizing Spring Boot, Java, Python and SQL databases, including MySQL, MS Server SQL, and MongoDB.
                         </li>
                         <li>
                             Skilled in modern front-end libraries and frameworks like React for building engaging user interfaces.
