@@ -27,7 +27,7 @@ const projectsData = [
         using Python—Class Center-Based Missing Value Imputation (CCMVI), Fuzzy C Means, and tree data
         imputation. Conducted performance comparisons to assess methods efficiency and accuracy.       
   `,
-        skill: 'Python'
+        skill: 'Python, Data Analysis'
     },
     
     {
@@ -47,7 +47,7 @@ const projectsData = [
         Developed using React, with distinct components such as Home, Projects List, Project Details.
         Successfully deployed on an AWS EC2 Linux instance for seamless accessibility.
         `,
-        skill: 'Javascript, HTML, CSS, React'
+        skill: 'Javascript, HTML, CSS, React, Node.js, AWS, Linux'
     },
 
     {
