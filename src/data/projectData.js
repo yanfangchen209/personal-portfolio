@@ -57,7 +57,7 @@ const projectsData = [
         description: `This project involves building a relational database for a job-shop accounting system. The goal is to create a database that can effectively manage the accounting information of a job shop, a type of manufacturing process that involves customizing products for specific clients.
         The project involves building the database on an Azure SQL Server, according to the given requirements for the database system. This includes designing an Entity Relationship (ER) diagram, listing out the relational database schema, providing a data element dictionary, and discussing the choices of storage structures for all relational tables. SQL statements are then constructed to create tables and implement them on the Azure SQL Database.
         `,
-        skill: 'Azure SQL Server database, SQL'
+        skill: 'Azure SQL Server database, SQL, JDBC'
     }
 
 ]
