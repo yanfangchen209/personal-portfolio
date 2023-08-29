@@ -15,8 +15,8 @@ function About(){
                 <div className='container selfintroduction'>
                     <h3>About me</h3>
                     <p> I am a dedicated software engineer with a Master's 
-                        degree in Computer Science. My passion lies in front-end development and 
-                        full-stack web development. With expertise spanning a diverse range of 
+                        degree in Computer Science. My passion lies in front-end development, 
+                        full-stack web development and data analysis. With expertise spanning a diverse range of 
                         technologies and methodologies, I am enthusiastic about joining a dynamic 
                         team where I can leverage my skills and commitment to create impactful and innovative solutions.
                     </p>
@@ -37,7 +37,7 @@ function About(){
                     <h3>Technical Expertise</h3>
                     <ul className='skillsets'>
                         <li>
-                            Experienced in back-end development utilizing Spring Boot, Java, Python and SQL databases, including MySQL, MS Server SQL, and MongoDB.
+                            Experienced in back-end development utilizing Spring Boot, Java, Python and SQL databases, including Oracle, MS Server SQL, and MongoDB.
                         </li>
                         <li>
                             Skilled in modern front-end libraries and frameworks like React for building engaging user interfaces.
