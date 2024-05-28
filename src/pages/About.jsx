@@ -20,6 +20,12 @@ function About(){
                         technologies and methodologies, I am enthusiastic about joining a dynamic 
                         team where I can leverage my skills and commitment to create impactful and innovative solutions.
                     </p> 
+                    <h3>Availability</h3>
+                    <ul className='skillsets'>
+                        <li>
+                            Open to both in-person and remote work arrangements. Authorized to work in the United States, no sponsorship required presently or in future.
+                        </li>
+                    </ul> 
                 </div>
             </Grid>
             <Grid item xs={7}>
@@ -61,15 +67,7 @@ function About(){
                             Possess a strong passion for learning and staying updated with the latest advancements in the tech industry.
                         </li>
                     </ul>
-                    <h3>Availability</h3>
-                    <ul className='skillsets'>
-                        <li>
-                            Open to both in-person and remote work arrangements.
-                        </li>
-                        <li>
-                            Authorized to work in the United States, no sponsorship required presently or in future.
-                        </li>
-                    </ul>   
+  
                 </div>
             </Grid>
         </Grid>
