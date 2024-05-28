@@ -1,5 +1,9 @@
+
+body {
+    font-size: 17px;
+}
 .container {
-    margin-top: 10px;
+    margin-top: 100px;
     font-size: 17px;
 }
 
@@ -21,19 +25,25 @@
 .selfintroduction p{
     width: 90%;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 ul.skillsets {
     text-align: left;
-    width: 90%;
+    width: 75%;
+    margin-left: 30px;
     margin-top: 5px;
     padding-left: 10px;
+    line-height: 25px;
 }
 
 ul.skillsets li{
     margin-top:4px;
     margin-bottom: 4px;
+}
+
+.selfintroduction {
+    line-height: 25px;
 }
 
 

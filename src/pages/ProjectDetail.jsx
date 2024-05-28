@@ -12,12 +12,15 @@ function ProjectDetail(){
         return(
             <div className="project">
                 <h1 className='name'>{project.name}</h1>
-                <img src={project.image} />
+                <img src={project.image} alt='project' />
                 <p>
                     <b>Description: </b>{project.description}
                 </p>
                 <p>
                     <b>Skills: </b>{project.skill}
+                </p>
+                <p>
+                    <b>Link: </b><a href={project.link}>{project.link}</a>
                 </p>
             </div>
         )
