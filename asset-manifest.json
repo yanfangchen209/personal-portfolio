@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yanfangchen209/personal-portfolio/static/css/main.cb902710.css",
+    "main.js": "/yanfangchen209/personal-portfolio/static/js/main.8feac046.js",
+    "static/js/787.fb771931.chunk.js": "/yanfangchen209/personal-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/foodorderapp.jpg": "/yanfangchen209/personal-portfolio/static/media/foodorderapp.cd178ff67417320538c7.jpg",
+    "static/media/profile.jpg": "/yanfangchen209/personal-portfolio/static/media/profile.5fbf5ec04f660a3457fe.jpg",
+    "static/media/shoppingcartprojectsnapshots.jpg": "/yanfangchen209/personal-portfolio/static/media/shoppingcartprojectsnapshots.7f031f4b15d5f2fbdccb.jpg",
+    "static/media/portfolio.jpg": "/yanfangchen209/personal-portfolio/static/media/portfolio.56d2f05b0f0ab78c7bd0.jpg",
+    "static/media/logo.svg": "/yanfangchen209/personal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yanfangchen209/personal-portfolio/index.html",
+    "main.cb902710.css.map": "/yanfangchen209/personal-portfolio/static/css/main.cb902710.css.map",
+    "main.8feac046.js.map": "/yanfangchen209/personal-portfolio/static/js/main.8feac046.js.map",
+    "787.fb771931.chunk.js.map": "/yanfangchen209/personal-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb902710.css",
+    "static/js/main.8feac046.js"
+  ]
+}
