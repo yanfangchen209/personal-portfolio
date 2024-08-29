@@ -10,7 +10,7 @@ import ProjectDetail from "./pages/ProjectDetail";
 function App() {
   return (
     <div className='App'>
-      <BrowserRouter basename='/project_portfolio'>
+      <BrowserRouter basename='/personal-portfolio'>
         <Menu />
         <Routes>
           <Route path='/' element={<Home/>} />
