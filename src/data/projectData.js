@@ -27,7 +27,7 @@ const projectsData = [
          React hooks. Implemented a home page, food page, and career page. Food page displays products details, 
          allow users to add items to the cart, update quantities, and delete items. Supported new user sign-ups. 
          Implemented user sign-in to checkout and validated shipping information, storing it in Firebase REST 
-         API and sent order confirmations. |Centralized state management with React Context API | Use React Router for page routing and navigation | Deployed on AWS EC2 Linux instance  `,
+         API and sent order confirmations. |Centralized state management with React Context API | Use React Router for page routing and navigation`,
         skill: 'React, Javascript, Node.js, NPM, Firebase, github page',
         link: 'https://yanfangchen209.github.io/Reactfoodorderapp/'
     },
@@ -37,10 +37,10 @@ const projectsData = [
         image: portfolio,
         description: `A React application showcasing a selection of my project accomplishments:
         Developed using React, with distinct components such as Home, Projects List, Project Details.
-        Successfully deployed on an AWS EC2 Linux instance for seamless accessibility.
+        Successfully deployed on an GitHub pages.
         `,
-        skill: 'Javascript, HTML, CSS, React, Node.js, AWS, Linux',
-        link: 'http://yanfangchen.com/'
+        skill: 'Javascript, HTML, CSS, React, Node.js',
+        link: 'https://yanfangchen209.github.io/personal-portfolio'
     }
 
 ]
